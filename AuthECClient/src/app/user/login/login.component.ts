@@ -13,6 +13,8 @@ import { ToastrService } from 'ngx-toastr';
   styles: ``
 })
 export class LoginComponent implements OnInit {
+  passwordVisible: boolean = false;
+
   constructor(
     public formBuilder: FormBuilder,
     private service: AuthService,
@@ -30,6 +32,10 @@ export class LoginComponent implements OnInit {
     email: ['', Validators.required],
     password: ['', Validators.required],
   })
+
+  togglePasswordVisibility(): void {
+    this.passwordVisible = !this.passwordVisible;
+  }
 
   hasDisplayableError(controlName: string): Boolean {
     const control = this.form.get(controlName);

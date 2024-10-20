@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1qQDmOw2MAg=",
+  "dgSpecHash": "foTTtc/t81w=",
   "success": true,
-  "projectFilePath": "D:\\Nick\\Angular\\Ver18\\Exam\\Angular-and-Asp.Net.Core-API-Authorization-with-Role-Claim-and-Policy-main\\AuthECAPI\\AuthECAPI\\AuthECAPI.csproj",
+  "projectFilePath": "D:\\Nick\\Angular\\Ver18\\Exam\\Angular17\\AuthECAPI\\AuthECAPI\\AuthECAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nick\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Nick\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

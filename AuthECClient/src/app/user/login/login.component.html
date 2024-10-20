@@ -13,8 +13,11 @@
       Please enter your email address.
     </div>
   </div>
-  <div class="mb-3">
-    <input class="form-control bg-body-secondary" placeholder="Password" formControlName="password">
+  <div class="mb-3 position-relative">
+    <input [type]="passwordVisible ? 'text' : 'password'" class="form-control bg-body-secondary" placeholder="Password" formControlName="password">
+    <button type="button" class="btn btn-outline-secondary position-absolute end-0 top-0" (click)="togglePasswordVisibility()">
+      <i [class]="passwordVisible ? 'bi bi-eye-slash' : 'bi bi-eye'"></i>
+    </button>
     <div class="error-feedback" *ngIf="hasDisplayableError('password') && form.controls.password.hasError('required')">
       Please enter your password.
     </div>
