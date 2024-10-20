@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Nick\\Angular\\Ver18\\Exam\\Angular-and-Asp.Net.Core-API-Authorization-with-Role-Claim-and-Policy-main\\AuthECAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|d:\\nick\\angular\\ver18\\exam\\angular-and-asp.net.core-api-authorization-with-role-claim-and-policy-main\\authecapi\\authecapi\\controllers\\identityuserendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\controllers\\identityuserendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|d:\\nick\\angular\\ver18\\exam\\angular-and-asp.net.core-api-authorization-with-role-claim-and-policy-main\\authecapi\\authecapi\\userdetails.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\userdetails.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|d:\\nick\\angular\\ver18\\exam\\angular-and-asp.net.core-api-authorization-with-role-claim-and-policy-main\\authecapi\\authecapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|d:\\nick\\angular\\ver18\\exam\\angular-and-asp.net.core-api-authorization-with-role-claim-and-policy-main\\authecapi\\authecapi\\controllers\\authorizationdemoendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\controllers\\authorizationdemoendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|d:\\nick\\angular\\ver18\\exam\\angular-and-asp.net.core-api-authorization-with-role-claim-and-policy-main\\authecapi\\authecapi\\controllers\\accountendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\controllers\\accountendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|d:\\nick\\angular\\ver18\\exam\\angular-and-asp.net.core-api-authorization-with-role-claim-and-policy-main\\authecapi\\authecapi\\extensions\\identityextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\extensions\\identityextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|d:\\nick\\angular\\ver18\\exam\\angular-and-asp.net.core-api-authorization-with-role-claim-and-policy-main\\authecapi\\authecapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|d:\\nick\\angular\\ver18\\exam\\angular-and-asp.net.core-api-authorization-with-role-claim-and-policy-main\\authecapi\\authecapi\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|d:\\nick\\angular\\ver18\\exam\\angular-and-asp.net.core-api-authorization-with-role-claim-and-policy-main\\authecapi\\authecapi\\migrations\\20240714025755_nameisaddedinuserentity2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\migrations\\20240714025755_nameisaddedinuserentity2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|d:\\nick\\angular\\ver18\\exam\\angular-and-asp.net.core-api-authorization-with-role-claim-and-policy-main\\authecapi\\authecapi\\migrations\\20240813044904_addedgenderdoblibraryid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\migrations\\20240813044904_addedgenderdoblibraryid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|d:\\nick\\angular\\ver18\\exam\\angular-and-asp.net.core-api-authorization-with-role-claim-and-policy-main\\authecapi\\authecapi\\authecapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\authecapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|d:\\nick\\angular\\ver18\\exam\\angular-and-asp.net.core-api-authorization-with-role-claim-and-policy-main\\authecapi\\authecapi\\migrations\\20240714024834_nameisaddedinuserentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\migrations\\20240714024834_nameisaddedinuserentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|d:\\nick\\angular\\ver18\\exam\\angular-and-asp.net.core-api-authorization-with-role-claim-and-policy-main\\authecapi\\authecapi\\migrations\\20240713160809_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\migrations\\20240713160809_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|d:\\nick\\angular\\ver18\\exam\\angular-and-asp.net.core-api-authorization-with-role-claim-and-policy-main\\authecapi\\authecapi\\extensions\\swaggerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\extensions\\swaggerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|d:\\nick\\angular\\ver18\\exam\\angular-and-asp.net.core-api-authorization-with-role-claim-and-policy-main\\authecapi\\authecapi\\extensions\\efcoreextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\extensions\\efcoreextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|d:\\nick\\angular\\ver18\\exam\\angular-and-asp.net.core-api-authorization-with-role-claim-and-policy-main\\authecapi\\authecapi\\extensions\\appconfigextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\extensions\\appconfigextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountEndpoints.cs",
+              "DocumentMoniker": "D:\\Nick\\Angular\\Ver18\\Exam\\Angular-and-Asp.Net.Core-API-Authorization-with-Role-Claim-and-Policy-main\\AuthECAPI\\AuthECAPI\\Controllers\\AccountEndpoints.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Controllers\\AccountEndpoints.cs",
+              "ToolTip": "D:\\Nick\\Angular\\Ver18\\Exam\\Angular-and-Asp.Net.Core-API-Authorization-with-Role-Claim-and-Policy-main\\AuthECAPI\\AuthECAPI\\Controllers\\AccountEndpoints.cs",
+              "RelativeToolTip": "AuthECAPI\\Controllers\\AccountEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T16:30:08.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IdentityUserEndpoints.cs",
+              "DocumentMoniker": "D:\\Nick\\Angular\\Ver18\\Exam\\Angular-and-Asp.Net.Core-API-Authorization-with-Role-Claim-and-Policy-main\\AuthECAPI\\AuthECAPI\\Controllers\\IdentityUserEndpoints.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Controllers\\IdentityUserEndpoints.cs",
+              "ToolTip": "D:\\Nick\\Angular\\Ver18\\Exam\\Angular-and-Asp.Net.Core-API-Authorization-with-Role-Claim-and-Policy-main\\AuthECAPI\\AuthECAPI\\Controllers\\IdentityUserEndpoints.cs",
+              "RelativeToolTip": "AuthECAPI\\Controllers\\IdentityUserEndpoints.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAewEkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T16:23:45.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Nick\\Angular\\Ver18\\Exam\\Angular-and-Asp.Net.Core-API-Authorization-with-Role-Claim-and-Policy-main\\AuthECAPI\\AuthECAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Program.cs",
+              "ToolTip": "D:\\Nick\\Angular\\Ver18\\Exam\\Angular-and-Asp.Net.Core-API-Authorization-with-Role-Claim-and-Policy-main\\AuthECAPI\\AuthECAPI\\Program.cs",
+              "RelativeToolTip": "AuthECAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T16:23:36.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Nick\\Angular\\Ver18\\Exam\\Angular-and-Asp.Net.Core-API-Authorization-with-Role-Claim-and-Policy-main\\AuthECAPI\\AuthECAPI\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\Nick\\Angular\\Ver18\\Exam\\Angular-and-Asp.Net.Core-API-Authorization-with-Role-Claim-and-Policy-main\\AuthECAPI\\AuthECAPI\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "AuthECAPI\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAUBAAAAAAAAAAAgwCkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T16:00:40.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Nick\\Angular\\Ver18\\Exam\\Angular-and-Asp.Net.Core-API-Authorization-with-Role-Claim-and-Policy-main\\AuthECAPI\\AuthECAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthECAPI\\appsettings.json",
+              "ToolTip": "D:\\Nick\\Angular\\Ver18\\Exam\\Angular-and-Asp.Net.Core-API-Authorization-with-Role-Claim-and-Policy-main\\AuthECAPI\\AuthECAPI\\appsettings.json",
+              "RelativeToolTip": "AuthECAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-14T15:40:46.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IdentityExtensions.cs",
+              "DocumentMoniker": "D:\\Nick\\Angular\\Ver18\\Exam\\Angular-and-Asp.Net.Core-API-Authorization-with-Role-Claim-and-Policy-main\\AuthECAPI\\AuthECAPI\\Extensions\\IdentityExtensions.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Extensions\\IdentityExtensions.cs",
+              "ToolTip": "D:\\Nick\\Angular\\Ver18\\Exam\\Angular-and-Asp.Net.Core-API-Authorization-with-Role-Claim-and-Policy-main\\AuthECAPI\\AuthECAPI\\Extensions\\IdentityExtensions.cs",
+              "RelativeToolTip": "AuthECAPI\\Extensions\\IdentityExtensions.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowCsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T15:43:58.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthorizationDemoEndpoints.cs",
+              "DocumentMoniker": "D:\\Nick\\Angular\\Ver18\\Exam\\Angular-and-Asp.Net.Core-API-Authorization-with-Role-Claim-and-Policy-main\\AuthECAPI\\AuthECAPI\\Controllers\\AuthorizationDemoEndpoints.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Controllers\\AuthorizationDemoEndpoints.cs",
+              "ToolTip": "D:\\Nick\\Angular\\Ver18\\Exam\\Angular-and-Asp.Net.Core-API-Authorization-with-Role-Claim-and-Policy-main\\AuthECAPI\\AuthECAPI\\Controllers\\AuthorizationDemoEndpoints.cs",
+              "RelativeToolTip": "AuthECAPI\\Controllers\\AuthorizationDemoEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T15:29:38.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "userdetails.json",
+              "DocumentMoniker": "D:\\Nick\\Angular\\Ver18\\Exam\\Angular-and-Asp.Net.Core-API-Authorization-with-Role-Claim-and-Policy-main\\AuthECAPI\\AuthECAPI\\userdetails.json",
+              "RelativeDocumentMoniker": "AuthECAPI\\userdetails.json",
+              "ToolTip": "D:\\Nick\\Angular\\Ver18\\Exam\\Angular-and-Asp.Net.Core-API-Authorization-with-Role-Claim-and-Policy-main\\AuthECAPI\\AuthECAPI\\userdetails.json",
+              "RelativeToolTip": "AuthECAPI\\userdetails.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-14T15:33:26.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240714025755_NameIsAddedInUserEntity2.cs",
+              "DocumentMoniker": "D:\\Nick\\Angular\\Ver18\\Exam\\Angular-and-Asp.Net.Core-API-Authorization-with-Role-Claim-and-Policy-main\\AuthECAPI\\AuthECAPI\\Migrations\\20240714025755_NameIsAddedInUserEntity2.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Migrations\\20240714025755_NameIsAddedInUserEntity2.cs",
+              "ToolTip": "D:\\Nick\\Angular\\Ver18\\Exam\\Angular-and-Asp.Net.Core-API-Authorization-with-Role-Claim-and-Policy-main\\AuthECAPI\\AuthECAPI\\Migrations\\20240714025755_NameIsAddedInUserEntity2.cs",
+              "RelativeToolTip": "AuthECAPI\\Migrations\\20240714025755_NameIsAddedInUserEntity2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T16:06:30.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240813044904_AddedGenderDOBLibraryID.cs",
+              "DocumentMoniker": "D:\\Nick\\Angular\\Ver18\\Exam\\Angular-and-Asp.Net.Core-API-Authorization-with-Role-Claim-and-Policy-main\\AuthECAPI\\AuthECAPI\\Migrations\\20240813044904_AddedGenderDOBLibraryID.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Migrations\\20240813044904_AddedGenderDOBLibraryID.cs",
+              "ToolTip": "D:\\Nick\\Angular\\Ver18\\Exam\\Angular-and-Asp.Net.Core-API-Authorization-with-Role-Claim-and-Policy-main\\AuthECAPI\\AuthECAPI\\Migrations\\20240813044904_AddedGenderDOBLibraryID.cs",
+              "RelativeToolTip": "AuthECAPI\\Migrations\\20240813044904_AddedGenderDOBLibraryID.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T16:06:31.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthECAPI",
+              "DocumentMoniker": "D:\\Nick\\Angular\\Ver18\\Exam\\Angular-and-Asp.Net.Core-API-Authorization-with-Role-Claim-and-Policy-main\\AuthECAPI\\AuthECAPI\\AuthECAPI.csproj",
+              "RelativeDocumentMoniker": "AuthECAPI\\AuthECAPI.csproj",
+              "ToolTip": "D:\\Nick\\Angular\\Ver18\\Exam\\Angular-and-Asp.Net.Core-API-Authorization-with-Role-Claim-and-Policy-main\\AuthECAPI\\AuthECAPI\\AuthECAPI.csproj",
+              "RelativeToolTip": "AuthECAPI\\AuthECAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-14T16:09:01.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240714024834_NameIsAddedInUserEntity.cs",
+              "DocumentMoniker": "D:\\Nick\\Angular\\Ver18\\Exam\\Angular-and-Asp.Net.Core-API-Authorization-with-Role-Claim-and-Policy-main\\AuthECAPI\\AuthECAPI\\Migrations\\20240714024834_NameIsAddedInUserEntity.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Migrations\\20240714024834_NameIsAddedInUserEntity.cs",
+              "ToolTip": "D:\\Nick\\Angular\\Ver18\\Exam\\Angular-and-Asp.Net.Core-API-Authorization-with-Role-Claim-and-Policy-main\\AuthECAPI\\AuthECAPI\\Migrations\\20240714024834_NameIsAddedInUserEntity.cs",
+              "RelativeToolTip": "AuthECAPI\\Migrations\\20240714024834_NameIsAddedInUserEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T16:06:29.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240713160809_InitialMigration.cs",
+              "DocumentMoniker": "D:\\Nick\\Angular\\Ver18\\Exam\\Angular-and-Asp.Net.Core-API-Authorization-with-Role-Claim-and-Policy-main\\AuthECAPI\\AuthECAPI\\Migrations\\20240713160809_InitialMigration.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Migrations\\20240713160809_InitialMigration.cs",
+              "ToolTip": "D:\\Nick\\Angular\\Ver18\\Exam\\Angular-and-Asp.Net.Core-API-Authorization-with-Role-Claim-and-Policy-main\\AuthECAPI\\AuthECAPI\\Migrations\\20240713160809_InitialMigration.cs",
+              "RelativeToolTip": "AuthECAPI\\Migrations\\20240713160809_InitialMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T16:05:57.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SwaggerExtensions.cs",
+              "DocumentMoniker": "D:\\Nick\\Angular\\Ver18\\Exam\\Angular-and-Asp.Net.Core-API-Authorization-with-Role-Claim-and-Policy-main\\AuthECAPI\\AuthECAPI\\Extensions\\SwaggerExtensions.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Extensions\\SwaggerExtensions.cs",
+              "ToolTip": "D:\\Nick\\Angular\\Ver18\\Exam\\Angular-and-Asp.Net.Core-API-Authorization-with-Role-Claim-and-Policy-main\\AuthECAPI\\AuthECAPI\\Extensions\\SwaggerExtensions.cs",
+              "RelativeToolTip": "AuthECAPI\\Extensions\\SwaggerExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T15:43:59.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EFCoreExtensions.cs",
+              "DocumentMoniker": "D:\\Nick\\Angular\\Ver18\\Exam\\Angular-and-Asp.Net.Core-API-Authorization-with-Role-Claim-and-Policy-main\\AuthECAPI\\AuthECAPI\\Extensions\\EFCoreExtensions.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Extensions\\EFCoreExtensions.cs",
+              "ToolTip": "D:\\Nick\\Angular\\Ver18\\Exam\\Angular-and-Asp.Net.Core-API-Authorization-with-Role-Claim-and-Policy-main\\AuthECAPI\\AuthECAPI\\Extensions\\EFCoreExtensions.cs",
+              "RelativeToolTip": "AuthECAPI\\Extensions\\EFCoreExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T15:43:57.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppConfigExtensions.cs",
+              "DocumentMoniker": "D:\\Nick\\Angular\\Ver18\\Exam\\Angular-and-Asp.Net.Core-API-Authorization-with-Role-Claim-and-Policy-main\\AuthECAPI\\AuthECAPI\\Extensions\\AppConfigExtensions.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Extensions\\AppConfigExtensions.cs",
+              "ToolTip": "D:\\Nick\\Angular\\Ver18\\Exam\\Angular-and-Asp.Net.Core-API-Authorization-with-Role-Claim-and-Policy-main\\AuthECAPI\\AuthECAPI\\Extensions\\AppConfigExtensions.cs",
+              "RelativeToolTip": "AuthECAPI\\Extensions\\AppConfigExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T15:43:56.799Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
