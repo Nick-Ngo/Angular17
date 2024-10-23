@@ -1,6 +1,6 @@
 import { CommonModule } from '@angular/common';
 import { Component, OnInit } from '@angular/core';
-import { FormBuilder, ReactiveFormsModule, Validators } from '@angular/forms';
+import { FormBuilder, ReactiveFormsModule, Validators, FormGroup } from '@angular/forms';
 import { Router, RouterLink } from '@angular/router';
 import { AuthService } from '../../shared/services/auth.service';
 import { ToastrService } from 'ngx-toastr';
@@ -13,52 +13,53 @@ import { ToastrService } from 'ngx-toastr';
   styles: ``
 })
 export class LoginComponent implements OnInit {
-  passwordVisible: boolean = false;
+  public passwordVisible: boolean = false;
+  public isSubmitted: boolean = false;
+  public form!: FormGroup;
 
   constructor(
-    public formBuilder: FormBuilder,
-    private service: AuthService,
+    private formBuilder: FormBuilder,
+    private authService: AuthService,
     private router: Router,
-    private toastr: ToastrService) { }
-
+    private toastr: ToastrService
+  ) {}
 
   ngOnInit(): void {
-    if (this.service.isLoggedIn())
-      this.router.navigateByUrl('/dashboard')
-  }
-  isSubmitted: boolean = false;
+    if (this.authService.isLoggedIn()) {
+      this.router.navigateByUrl('/dashboard');
+    }
 
-  form = this.formBuilder.group({
-    email: ['', Validators.required],
-    password: ['', Validators.required],
-  })
+    this.form = this.formBuilder.group({
+      email: ['', Validators.required],
+      password: ['', Validators.required],
+    });
+  }
 
   togglePasswordVisibility(): void {
     this.passwordVisible = !this.passwordVisible;
   }
 
-  hasDisplayableError(controlName: string): Boolean {
+  hasDisplayableError(controlName: string): boolean {
     const control = this.form.get(controlName);
-    return Boolean(control?.invalid) &&
-      (this.isSubmitted || Boolean(control?.touched) || Boolean(control?.dirty))
+    return control?.invalid && (this.isSubmitted || control.touched || control.dirty) || false;
   }
 
-  onSubmit() {
+  onSubmit(): void {
     this.isSubmitted = true;
     if (this.form.valid) {
-      this.service.signin(this.form.value).subscribe({
+      this.authService.signin(this.form.value).subscribe({
         next: (res: any) => {
-          this.service.saveToken(res.token);
+          this.authService.saveToken(res.token);
           this.router.navigateByUrl('/dashboard');
         },
-        error: err => {
-          if (err.status == 400)
-            this.toastr.error('Incorrect email or password.', 'Login failed')
-          else
-            console.log('error during login:\n', err);
+        error: (err) => {
+          if (err.status === 400) {
+            this.toastr.error('Incorrect email or password.', 'Login failed');
+          } else {
+            console.error('Error during login:', err);
+          }
         }
-      })
+      });
     }
   }
-
 }
