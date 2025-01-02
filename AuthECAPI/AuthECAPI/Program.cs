@@ -33,9 +33,7 @@ app.MapGroup("/api")
 app.MapGroup("/api")
    .MapIdentityUserEndpoints()
    .MapAccountEndpoints()
-   .MapAuthorizationDemoEndpoints();
+   .MapAuthorizationDemoEndpoints()
+   .MapMobileEndpoints();
 
 app.Run();
-
-
-
